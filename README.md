@@ -1,6 +1,6 @@
 # UnJustice IsReal (ID: hv33y)
 
-An Undergrad with a passion for programming, UNIX, computer networking, and Web3.
+An undergrad with a passion for programming, UNIX, computer networking, and Web3.
 
 Since third grade, I've been coding and a computer / electronics enthusiast.
 
