@@ -2,7 +2,7 @@
 
 - An undergrad with a passion for programming,  as well as computer networking.
 - Since third grade, I've been coding and a computer / electronics enthusiast.
-- You can reach me at [telegram](https://telegram.harry.eu.org).
+- You can reach me at ![Telegram](https://telegram.org/img/website_icon.svg) [Telegram](https://funnic.telegram.dog).
 
 ## ```whoami```
 
