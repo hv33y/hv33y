@@ -1,12 +1,10 @@
-# UnJustice IsReal (ID: hv33y)
+# UnJustice IsReal (hv33y)
 
-An undergrad with a passion for programming, UNIX, computer networking, and Web3.
+- An undergrad with a passion for programming,  as well as computer networking.
+- Since third grade, I've been coding and a computer / electronics enthusiast.
+- You can reach me at [telegram](https://telegram.harry.eu.org).
 
-Since third grade, I've been coding and a computer / electronics enthusiast.
-
-You can reach me at [telegram](https://telegram.harry.eu.org).
-
-## `whoami`
+## ```whoami```
 
 * Interested in operating systems and networking.
-* Debian, Arch Linux, Fedora and Windows user & administrator.
+* Windows, Debian, Arch Linux, Fedora user & administrator.
