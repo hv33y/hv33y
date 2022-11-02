@@ -1,10 +1,7 @@
-# UnJustice IsReal (hv33y)
+<samp>
 
-- An undergrad with a passion for programming,  as well as computer networking.
-- Since third grade, I've been coding and a computer / electronics enthusiast.
-- You can reach me at ![Telegram](https://telegram.org/img/website_icon.svg) [Telegram](https://funnic.telegram.dog).
+<p align="center">Hi! I'm an undergrad with a passion for programming, as well as computer networking.</p>
 
-## ```whoami```
+<p align="center"><a href="https://twitter.com/hv33y">twitter.com/hv33y</a> • <a href="mailto:reach@harry.eu.org">reach@harry.eu.org</a> • <a href="https://github.com/hv33y">github.com/hv33y</a></p>
 
-* Interested in operating systems and networking.
-* Windows, Debian, Arch Linux, Fedora user & administrator.
+</samp>
