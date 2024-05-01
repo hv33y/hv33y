@@ -1,7 +1,3 @@
-<samp>
+**i do cool things here and there**
 
-<p align="center">"Hi, I'm Harry Kauhaad, an undergraduate student with a passion for programming and computer networking."</p>
-
-<p align="center"><a href="https://twitter.com/hv33y">twitter.com/hv33y</a> • <a href="mailto:reach@harrykauhaad.com">reach@harrykauhaad.com</a> • <a href="https://github.com/hv33y">github.com/hv33y</a></p>
-
-</samp>
+*website: [harrykauhaad.com](https://harrykauhaad.com) — twitter:  [@hv33y](https://twitter.com/hv33y) — email: reach@harrykauhaad.com*
